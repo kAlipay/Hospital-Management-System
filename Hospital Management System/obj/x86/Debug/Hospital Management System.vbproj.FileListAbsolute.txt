@@ -1,0 +1,77 @@
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.vbprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmAdmit.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmCashier.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDoctor.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDoctorList.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDoctorList1.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.frmmain.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmPatient.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmPatientList.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmRoom.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Resources.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.vbproj.GenerateResource.Cache
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.exe
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.xml
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.pdb
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmAdmitHistory.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDischargeHistory.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmAdmitPatientReport.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.frmRegistration.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmPatientReport.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDischargeReport.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.frmChangePassword.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.frmLogin.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmLock.resources
+C:\Users\Richard\Documents\Visual Studio 2010\Projects\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.exe.licenses
+F:\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.exe
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.xml
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.pdb
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.vbprojResolveAssemblyReference.cache
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmAdmitPatientReport.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmPatientReport.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmChangePassword.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDischargeReport.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmAdmitHistory.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDischargeHistory.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmAdmit.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmCashier.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDoctor.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDoctorList.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDoctorList1.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmLock.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmLogin.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmMain.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmPatient.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmPatientList.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmRegistration.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmRoom.resources
+F:\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.vbproj.GenerateResource.Cache
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.exe
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.xml
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.pdb
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.vbprojResolveAssemblyReference.cache
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmAdmitPatientReport.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmPatientReport.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmChangePassword.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDischargeReport.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmAdmitHistory.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDischargeHistory.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmAdmit.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmCashier.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDoctor.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDoctorList.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmDoctorList1.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmLock.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmLogin.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmMain.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmPatient.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmPatientList.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmRegistration.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.FrmRoom.resources
+F:\Documents\CODE\School\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.vbproj.GenerateResource.Cache

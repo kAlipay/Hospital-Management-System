@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1FECBAF8-AD26-451E-98A3-1481B6542222}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Hospital_Management_System.My.MyApplication</StartupObject>
+    <RootNamespace>Hospital_Management_System</RootNamespace>
+    <AssemblyName>Hospital Management System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>C:\Users\Richard\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Hospital Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Hospital Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>68AE77A7A1638EB2136CAE0533181B3EAF91D389</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Hospital Management System_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Telerik.WinControls, Version=2015.2.728.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.GridView, Version=2015.2.728.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2015.2.728.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2015.2.728.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Crystal Report\AdmitPatientReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AdmitPatientReport.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Crystal Report\FrmAdmitPatientReport.Designer.vb">
+      <DependentUpon>FrmAdmitPatientReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Crystal Report\FrmAdmitPatientReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crystal Report\FrmPatientReport.Designer.vb">
+      <DependentUpon>FrmPatientReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Crystal Report\FrmPatientReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmChangePassword.Designer.vb">
+      <DependentUpon>FrmChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmDischargeReport.Designer.vb">
+      <DependentUpon>FrmDischargeReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmDischargeReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmAdmitHistory.Designer.vb">
+      <DependentUpon>FrmAdmitHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmAdmitHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmDischargeHistory.Designer.vb">
+      <DependentUpon>FrmDischargeHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmDischargeHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmAdmit.Designer.vb">
+      <DependentUpon>FrmAdmit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmAdmit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmCashier.Designer.vb">
+      <DependentUpon>FrmCashier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmCashier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmDoctor.Designer.vb">
+      <DependentUpon>FrmDoctor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmDoctor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmDoctorList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmDoctorList.Designer.vb">
+      <DependentUpon>FrmDoctorList.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmDoctorList1.Designer.vb">
+      <DependentUpon>FrmDoctorList1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmDoctorList1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmLock.Designer.vb">
+      <DependentUpon>FrmLock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmLock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmMain.Designer.vb">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmPatient.Designer.vb">
+      <DependentUpon>FrmPatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmPatientList.Designer.vb">
+      <DependentUpon>FrmPatientList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmPatientList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRegistration.Designer.vb">
+      <DependentUpon>FrmRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmRoom.Designer.vb">
+      <DependentUpon>FrmRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Crystal Report\PatientDischargeReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PatientDischargeReport.rpt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Crystal Report\AdmitPatientReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AdmitPatientReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crystal Report\FrmAdmitPatientReport.resx">
+      <DependentUpon>FrmAdmitPatientReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crystal Report\FrmPatientReport.resx">
+      <DependentUpon>FrmPatientReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmChangePassword.resx">
+      <DependentUpon>FrmChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmDischargeReport.resx">
+      <DependentUpon>FrmDischargeReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmAdmitHistory.resx">
+      <DependentUpon>FrmAdmitHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmDischargeHistory.resx">
+      <DependentUpon>FrmDischargeHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmAdmit.resx">
+      <DependentUpon>FrmAdmit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmCashier.resx">
+      <DependentUpon>FrmCashier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmDoctor.resx">
+      <DependentUpon>FrmDoctor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmDoctorList.resx">
+      <DependentUpon>FrmDoctorList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmDoctorList1.resx">
+      <DependentUpon>FrmDoctorList1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmLock.resx">
+      <DependentUpon>FrmLock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmMain.resx">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmPatient.resx">
+      <DependentUpon>FrmPatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmPatientList.resx">
+      <DependentUpon>FrmPatientList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRegistration.resx">
+      <DependentUpon>FrmRegistration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmRoom.resx">
+      <DependentUpon>FrmRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crystal Report\PatientDischargeReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PatientDischargeReport.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Hospital Management System_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\table-edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\medical-bed-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\Clear-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\Misc-Database-3-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\14232501_555176128007695_2808778614139142104_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
